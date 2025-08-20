@@ -95,7 +95,7 @@ get_rating() {
     6[1-9]|70) echo "💙 Excellent – Your device is a gaming champ!" ;;
     7[1-9]|80) echo "💙🔥 Top Tier – Ultra smooth gameplay!" ;;
     8[1-9]|90) echo "💎 Legendary – Maximum performance unlocked!" ;;
-    9[0-9]|100) echo "🚀 Godlike – You can run anything at full speed!" ;;
+    9[0-9]|100) echo "🚀 WOW PRO – You can run anything at full speed!" ;;
     *) echo "ℹ️ Unknown rating" ;;
   esac
 }
